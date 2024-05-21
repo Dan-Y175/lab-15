@@ -70,4 +70,4 @@ There are many ways we could extend this app further. For example:
 - Changing the "Reports to" column to display a combo box rather than a text box, only allowing the user to select from "N/A" or a valid manager, rather than allowing them to type anything
 - etc.
 
-Further expand your Swing and Design Patterns knowledge by implementing some or all of these features, plus any of your own that you can think of!
+Further expand your Swing and Design Patterns knowledge by implementing some or all of these features, plus any of your own that you can think of!"# lab-15" 
